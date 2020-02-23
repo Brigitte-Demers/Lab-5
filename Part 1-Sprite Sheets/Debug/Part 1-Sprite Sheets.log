@@ -1,0 +1,14 @@
+﻿  File not found - *.dll
+  0 File(s) copied
+  CApp.cpp
+c:\labs\lab 5\lab 5-brigitte demers\part 1-sprite sheets\capp.cpp(21): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+  CApp_OnCleanup.cpp
+  CApp_OnEvent.cpp
+  CApp_OnInit.cpp
+c:\labs\lab 5\lab 5-brigitte demers\part 1-sprite sheets\capp_oninit.cpp(30): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CApp_OnLoop.cpp
+  CApp_OnRender.cpp
+  CSpriteSheet.cpp
+c:\labs\lab 5\lab 5-brigitte demers\part 1-sprite sheets\cspritesheet.cpp(27): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+  Generating Code...
+  Part 1-Sprite Sheets.vcxproj -> C:\Labs\LAB 5\Lab 5-Brigitte Demers\Debug\Part 1-Sprite Sheets.exe
